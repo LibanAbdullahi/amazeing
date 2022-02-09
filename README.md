@@ -1,2 +1,2 @@
 # amazeing
-maz game
+maze game
